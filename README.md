@@ -317,7 +317,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo inicial* - [TuUsuario](https://github.com/TuUsuario)
+- **Luken Eguiluz** - *Desarrollo inicial* - [@LukenEguiluz](https://github.com/LukenEguiluz)
 
 ## 🙏 Agradecimientos
 
@@ -328,8 +328,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 📞 Contacto
 
 - Email: luken.eguiluz@gmail.com
-- GitHub: [@TuUsuario](https://github.com/LukenEguiluz)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/luken-eguiluz)
+- GitHub: [@LukenEguiluz](https://github.com/LukenEguiluz)
+- LinkedIn: [Luken Eguiluz](https://linkedin.com/in/luken-eguiluz)
 
 ## ⚠️ Configuración de Hugging Face Token
 
