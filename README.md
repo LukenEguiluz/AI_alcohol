@@ -331,6 +331,24 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - GitHub: [@TuUsuario](https://github.com/TuUsuario)
 - LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
 
+## ⚠️ Configuración de Hugging Face Token
+
+Para usar la diarización de hablantes, necesitas un token de acceso de Hugging Face. 
+
+1. Crea un archivo `.env` en la raíz del proyecto:
+
+```bash
+cp .env.example .env
+```
+
+2. Edita el archivo `.env` y pon tu token de Hugging Face:
+
+```
+HUGGINGFACE_TOKEN=tu_token_aqui
+```
+
+Puedes obtener tu token en: https://huggingface.co/settings/tokens
+
 ---
 
 **Nota**: Este proyecto es para investigación médica. Los resultados deben ser interpretados por profesionales de la salud. 
