@@ -327,9 +327,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 Contacto
 
-- Email: tu-email@ejemplo.com
-- GitHub: [@TuUsuario](https://github.com/TuUsuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- Email: luken.eguiluz@gmail.com
+- GitHub: [@TuUsuario](https://github.com/LukenEguiluz)
+- LinkedIn: [Tu Perfil](https://linkedin.com/in/luken-eguiluz)
 
 ## ⚠️ Configuración de Hugging Face Token
 
