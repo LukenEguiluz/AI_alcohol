@@ -88,7 +88,7 @@ La **encefalopatía hepática** es una complicación grave de la cirrosis que af
 
 ```bash
 # 1. Clonar
-git clone https://github.com/tu-usuario/AI_alcohol.git
+git clone https://github.com/LukenEguiluz/AI_alcohol.git
 cd AI_alcohol
 
 # 2. Configuración automática
@@ -216,9 +216,9 @@ Para cada video procesado:
 
 ## 📞 Contacto
 
-- **GitHub**: [@TuUsuario](https://github.com/TuUsuario)
-- **Email**: tu-email@ejemplo.com
-- **LinkedIn**: [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- **GitHub**: [@LukenEguiluz](https://github.com/LukenEguiluz)
+- **Email**: luken.eguiluz@gmail.com
+- **LinkedIn**: [Luken Eguiluz](https://linkedin.com/in/luken-eguiluz)
 
 ## 📄 Licencia
 

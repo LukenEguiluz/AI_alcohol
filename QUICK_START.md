@@ -4,7 +4,7 @@
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/AI_alcohol.git
+git clone https://github.com/LukenEguiluz/AI_alcohol.git
 cd AI_alcohol
 ```
 

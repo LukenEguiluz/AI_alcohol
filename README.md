@@ -57,7 +57,7 @@ Evaluar las diferencias en fluidez verbal entre tres grupos de pacientes:
 #### Linux/macOS:
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/AI_alcohol.git
+git clone https://github.com/LukenEguiluz/AI_alcohol.git
 cd AI_alcohol
 
 # Ejecutar script de configuración automática
@@ -67,7 +67,7 @@ cd AI_alcohol
 #### Windows:
 ```powershell
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/AI_alcohol.git
+git clone https://github.com/LukenEguiluz/AI_alcohol.git
 cd AI_alcohol
 
 # Ejecutar script de configuración automática
@@ -90,7 +90,7 @@ ollama pull llama3:8b
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/AI_alcohol.git
+git clone https://github.com/LukenEguiluz/AI_alcohol.git
 cd AI_alcohol
 
 # Crear entorno virtual
